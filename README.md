@@ -7,3 +7,5 @@
 ## Data Model
 
 ## API Model
+
+## Naming Rules
