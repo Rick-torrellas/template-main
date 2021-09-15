@@ -16,6 +16,8 @@
 * [Author 👪](#author)
 * [License 📄](#license)
 * [Docs 📚](https://user-name.github.io/project-name)
+* Kanbas</br>
+<a href="https://github.com/users/Rick-torrellas/projects/2" title="kanbas"><img width="5%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1629301660/icons/kanban_oifhu7.png"/></a>
 
 ***
 
