@@ -13,7 +13,7 @@
 * [Naming Rules 🏷️](#naming-rules)
 * [Environment variables 🔐](#environment-variables)
 * [Instances 🧮](#instances)
-* [Author 👪](#author)
+* [Authors 👪](#authors)
 * [License 📄](#license)
 * [Docs 📚](https://user-name.github.io/project-name)
 * Kanbas</br>
@@ -43,7 +43,9 @@
 
 [🏠](#nav "Back home")
 
-<h2 id="author">Author 👪</h2>
+<h2 id="authors">Authors 👪</h2>
+
+[🏠](#nav "Back home")
 
 * Ricardo Torrellas
 
