@@ -54,3 +54,5 @@
 [🏠](#nav "Back home")
 
 [MIT](./LICENSE)
+
+<img src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1632064143/icons/pill_sakm1z.svg" alt="template" width="3%">
