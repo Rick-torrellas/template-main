@@ -17,8 +17,6 @@
 
 ***
 
-
-
 <h2 id="data-model">Data Model 💾</h2>
 
 [🏠](#nav "Back home")
