@@ -13,7 +13,7 @@
 * [Authors 👪](#authors)
 * [License 📄](#license)
 * [Docs 📚](https://user-name.github.io/project-name)
-* [Kanban] (./kanban.md)
+* [Kanban](./kanban.md)
 
 ***
 
