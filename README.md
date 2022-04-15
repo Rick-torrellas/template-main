@@ -35,7 +35,7 @@
 
 * Ricardo Torrellas
 
-<h2 id="license">License 📄</h2>
+<h2 id="license" >License 📄</h2>
 
 [🏠](#nav "Back home")
 
