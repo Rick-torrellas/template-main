@@ -8,20 +8,19 @@
 
 <h2 id="nav">Nav🏠 </h2>
 
-* [Data Model 💾](#data-model)
 * [Instances 🧮](#instances)
+* [Data Model 💾](#data-model)
 * [Authors 👪](#authors)
 * [License 📄](#license)
 * [Docs 📚](https://user-name.github.io/project-name)
 * [Kanban](./kanban.md)
 
 ***
-
-<h2 id="data-model">Data Model 💾</h2>
+<h2 id="instances">Instances 🧮 </h2>
 
 [🏠](#nav "Back home")
 
-<h2 id="instances">Instances 🧮 </h2>
+<h2 id="data-model">Data Model 💾</h2>
 
 [🏠](#nav "Back home")
 
