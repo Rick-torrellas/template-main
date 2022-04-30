@@ -16,10 +16,10 @@
 ***
 <h2 id="instances">Instances 🧮 </h2>
 
-| | |
-| --- | --- |
-| | |
-| | |
+| Name | Description | Type |
+| --- | --- | --- |
+| | | |
+| | | |
 
 [🏠](#nav "Back home")
 
