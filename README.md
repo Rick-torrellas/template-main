@@ -42,5 +42,4 @@
 <img src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1632064143/icons/pill_sakm1z.svg" alt="template" width="1%">
 
 ---
-<a href="https://www.flaticon.es/iconos-gratis/pildora" title="píldora iconos">Píldora iconos creados por Good Ware - Flaticon</a><br>
 <a href="https://www.flaticon.es/iconos-gratis/kanban" title="kanban iconos">Kanban iconos creados por Freepik - Flaticon</a>
